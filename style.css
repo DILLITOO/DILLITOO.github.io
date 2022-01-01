@@ -54,3 +54,17 @@ body {
     margin-left: 55px;
     margin-top: -200px;
 }
+.secret {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.452);
+}
+#til-añ {
+    margin-top: 250px;
+    font-size: 100px;
+    color: white;
+}
+#sc-añ {
+    font-size: 60px;
+    color: white;
+}
